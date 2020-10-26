@@ -20,7 +20,7 @@ Mais si vous éprouvez des difficultés, lisez-la suite.
 
 ## Étapes de résolution
 
-1. Prenez connaissances des fichiers [HTML](index.html), [CSS](style.css) et [JavaScript](script.js).
+1. Prenez connaissances des fichiers .
    Vous verrez qu'ils contiennent quelques classes CSS, un `<div>` avec un champ texte et un bouton et une liste vide.
    Vous réaliserez l'exercice dans le fichier `script.js`.
 2. Créez 3 variables pour contenir les références vers les éléments liste (`<ul>`), `input` et `button`.
